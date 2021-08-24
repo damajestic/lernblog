@@ -4,7 +4,7 @@ date = "2019-05-28"
 draft = false
 pinned = false
 tags = ["Anleitung", "Lernblog"]
-image = "https://fontmeme.com/temporary/660ae97b6e7cef79add5d6e5374a6bcd.png"
+image = "https://fontmeme.com/temporary/26c849be15d5465eb0591154cdda33ad.png"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "Ganz unten an der Seite können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
