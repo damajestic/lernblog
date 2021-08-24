@@ -1,13 +1,12 @@
 +++
 title = "Über mich"
 draft = false
-description = "Seite über mich"
 image = ""
+description = "Seite über mich"
 +++
 ![](/img/default-author.png)
 
-## Vorname Nachname
+damajestic
 
-info@lernblog.ch
 
-Beschreibung, wer ich bin...
+Just to know
