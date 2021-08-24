@@ -6,6 +6,10 @@ pinned = false
 image = "sdfsdg.jpg"
 description = "Flowersforyou.carrd.co"
 +++
+![](sdfsdg.jpg)
+
+
+
 am 17. August habe ich meine erste eigene Webseite erstellt. diese war für einen Fiktiven Blumenladen.
 
 Während dem erstellen der Webseite habe ich einige Sachen gelernt, da webdesign für mich Neuland ist.
