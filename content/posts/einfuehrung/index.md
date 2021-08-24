@@ -4,7 +4,7 @@ date = "2019-05-28"
 draft = false
 pinned = false
 tags = ["Anleitung", "Lernblog"]
-image = "9ccd7a90a4dae03adbcb1e5de2bcc1ca.png"
+image = "unbenannt.jpg"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "Ganz unten an der Seite können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
