@@ -21,7 +21,7 @@ Unsere Dienstleistung war die Unterstützung des Marketing-Teams. Wir haben Idee
 
 **Kunden**
 
-Durch unsere Arbeit haben wir direkt keinen Kunden gewonnen, da dies eine einmalige Sache war. Was wir aber gewonnen haben sind Kontakte die nützlich sein könnten. Durch den gewonnen Kontakt haben wir eine Stelle im Sicherheitsdienst bekommen. Daher arbeiten wir indirekt die ganze Zeit mit unserem ehemaligem Kunden.
+Durch unsere Arbeit haben wir direkt keinen Kunden gewonnen, da dies eine einmalige Sache war. Was wir aber gewonnen haben sind Kontakte die nützlich sein könnten. Durch den gewonnen Kontakt haben wir eine Stelle im Sicherheitsdienst bekommen. Daher arbeiten wir indirekt die ganze Zeit mit unserem ehemaligen Kunden.
 
 **Feedbacks**
 
