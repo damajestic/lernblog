@@ -6,21 +6,17 @@ pinned = false
 description = ""
 footnotes = "https://storeprotect.ch/"
 +++
-
-
- **Idee** 
+**Idee** 
 
 Wir hatten die Vorstellung eine Webseite für ein Unternehmen zu modernisieren oder so gar neu zu erstellen. Wir waren der Meinung das wir viele Ideen und neue Möglichkeiten mitbringen um so die Webseite von Friso Trading zu erneuern.
 
 ![]()
 
- **Unser Produkt und Dienstleistung**
+**Unser Produkt und Dienstleistung**
 
 Unsere Dienstleistung war die Unterstützung des Marketing-Teams. Wir haben Ideen und Fotos eingebracht. Da wir jung sind und die Kundengruppe des Unternehmens auch eher junge Kunden sind, konnten wir oft unsere Meinung und Ideen dazugeben. Zudem verwalten wir jetzt auch die Instagramseite des Unternehmens. 
 
 ![](insta.png)
-
-
 
 **Kunden**
 
@@ -36,10 +32,10 @@ Der grösste Erfolg war das wir das Vertrauen des Unternehmens gewonnen haben. Z
 
 ![https://storeprotect.ch/](sp.png)
 
-**Was hat nicht funktioniert oder war schwierig beim Projekt?**
+**Stolpersteine** 
 
 Zu beginn war es schwierig mit den knappen Mittel aus zukommen. Nach einiger Zeit haben wir aber die Plattform für die Webseite erhalten und dies hat es und vereinfacht. Schwierig war es auch die bereits eigentliche gute Webseite anzupassen.
 
-**Was lernen wir aus diesem Projekt? Was würden wir beim nächsten Mal anders machen?**
+**Erkenntnisse** 
 
 Aus unserer Erfahrungen können wir sagen, das Kapazität in den Bereichen Wissen und Materialen sehr wichtig sind. Vor allem wenn man für ein professionelles Unternehmen arbeitet, welches schon viel auf der Ebene des Webdesigns bietet.
