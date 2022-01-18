@@ -1,8 +1,9 @@
 +++
-title = "Webdesigne FRISO TRADING"
+title = "WEBDESIGNE FRISO TRADING"
 date = "2022-01-18"
 draft = false
 pinned = false
+image = "friso.png"
 description = ""
 footnotes = "https://storeprotect.ch/"
 +++
