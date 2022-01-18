@@ -9,7 +9,7 @@ footnotes = "https://storeprotect.ch/"
 +++
 **Idee** 
 
-Wir hatten die Vorstellung eine Webseite für ein Unternehmen zu modernisieren oder so gar neu zu erstellen. Wir waren der Meinung das wir viele Ideen und neue Möglichkeiten mitbringen um so die Webseite von Friso Trading zu erneuern.
+Wir hatten die Vorstellung eine Webseite für ein Unternehmen zu modernisieren oder so gar eine neu zu erstellen. Wir waren der Meinung das wir viele Ideen und neue Möglichkeiten mitbringen um so die Webseite von Friso Trading zu erneuern.
 
 ![]()
 
@@ -21,15 +21,15 @@ Unsere Dienstleistung war die Unterstützung des Marketing-Teams. Wir haben Idee
 
 **Kunden**
 
-Durch unsere Arbeit haben wir direkt keinen Kunden gewonnen, da dies eine einmalige Sache war. Was wir aber gewonnen haben sind Kontakte die nützlich sein könnten.
+Durch unsere Arbeit haben wir direkt keinen Kunden gewonnen, da dies eine einmalige Sache war. Was wir aber gewonnen haben sind Kontakte die nützlich sein könnten. Durch den gewonnen Kontakt haben wir eine Stelle im Sicherheitsdienst bekommen. Daher arbeiten wir indirekt die ganze Zeit mit unserem damaligen Kunden.
 
 **Feedbacks**
 
-Unsere Mittel und unsere Kenntnisse waren begrenzt, da wir uns mit dem Thema Webdesigne erst seit kurzem befassten. Die Rückmeldung und das Ergebnis hat jedoch gezeigt das wir, mit wenig Kapazität, viel erreichen konnten und dem Unternehmen helfen konnten.
+Unsere Mittel und unsere Kenntnisse waren begrenzt, da wir uns mit dem Thema Webdesigne erst seit kurzem befassten. Die Rückmeldung und das Ergebnis hat jedoch gezeigt das wir, mit wenig Kapazität, viel erreichen konnten und dem Unternehmen helfen konnten. Friso war der Meinung das wir sehr viele gute Marketing Ideen haben die man allgemein auch bei anderen Unternehmen verwenden könnte.
 
 **Erfolg**
 
-Der grösste Erfolg war das wir das Vertrauen des Unternehmens gewonnen haben. Zudem haben wir durch unsere Leistung ein Jobangebot für eins der Tochterunternehmen erhalten. 
+Der grösste Erfolg war das wir das Vertrauen des Unternehmens gewonnen haben. Zudem haben wir durch unsere Leistung ein Jobangebot für eins der Tochterunternehmen erhalten. Zudem haben wir auch unsere Teamfähigkeit verbessern können. Die Aufgaben und Meetings waren sehr komplex und die Anforderungen hoch. Unser Team hat dies sehr gut gehandhabt wie man am Schluss sieht. Zudem haben wir auch Aufgaben und Tätigkeiten durchgeführt die wir noch nie gemacht haben.
 
 ![https://storeprotect.ch/](sp.png)
 
