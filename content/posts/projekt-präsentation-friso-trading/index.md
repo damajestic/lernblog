@@ -13,19 +13,27 @@ Wir hatten die Vorstellung eine Webseite für ein Unternehmen zu modernisieren o
 
 Unsere Dienstleistung war die Unterstützung des Marketing-Teams. Wir haben Ideen und Fotos eingebracht. Da wir jung sind und die Kundengruppe des Unternehmens auch eher junge Kunden sind, konnten wir oft unsere Meinung und Ideen dazugeben. Zudem verwalten wir jetzt auch die Instagramseite des Unternehmens. 
 
-![](insta.png)
+![www.frisotrading.com](insta.png)
 
 **Wen konnten wir als Kunden gewinnen?**
 
+
+
 **Was waren die Feedbacks unserer Kunden?**
 
-**Falls keine Kunden gefunden: Was war die Schwierigkeit, dass wir keine Interessenten finden konnten?**
+Unsere Mittel und unsere Kenntnisse waren begrenzt, da wir uns mit dem Thema Webdesigne erst seit kurzem befassten. Die Rückmeldung und das Ergebnis hat jedoch gezeigt das wir, mit wenig Kapazität, viel erreichen konnten und dem Unternehmen helfen konnten.
 
 **Gibt es Dinge, auf die wir stolz sind und die wir als Erfolg bezeichnen können?**
 
+Der grösste Erfolg war das wir das Vertrauen des Unternehmens gewonnen haben. Zudem haben wir durch unsere Leistung ein Jobangebot für eine der Tochterunternehmen erhalten.
+
 **Was hat nicht funktioniert oder war schwierig beim Projekt?**
 
+Zu beginn war es schwierig mit den knappen Mittel aus zukommen. Nach einiger Zeit haben wir aber die Plattform für die Webseite erhalten und dies hat es und vereinfacht. Schwierig war es auch die bereits eigentliche gute Webseite anzupassen.
+
 **Was lernen wir aus diesem Projekt?Was würden wir beim nächsten Mal anders machen?**
+
+
 
 **Wo war die Unterstützung der Lehrperson hilfreich?**
 
